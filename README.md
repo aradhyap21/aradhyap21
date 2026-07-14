@@ -2,7 +2,7 @@
 <h3 align="center">CS Undergrad | ML/AI Engineer | Building autonomous, agentic, and multimodal AI systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aradhyapandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/aradhya-rahul-pandey-788790301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/aradhyapandey"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   <a href="mailto:ap0965@srmist.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
