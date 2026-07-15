@@ -2,8 +2,8 @@
 <h3 align="center">CS Undergrad | ML/AI Engineer | Building autonomous, agentic, and multimodal AI systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aradhyapandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/aradhyapandey"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aradhya-rahul-pandey-788790301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/aradhyap21"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   <a href="mailto:arp21092005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -12,11 +12,11 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (Software Engineering) @ **SRM Institute of Science and Technology**, Chennai — Expected May 2027 (CGPA: **8.5/10**)
-- 🔬 **ML Intern at the Indian Institute of Science (IISc), Bengaluru**, building autonomous AI systems for scientific research
+- 🔬 Currently an **ML Intern at the Indian Institute of Science (IISc), Bengaluru**, building autonomous AI systems for scientific research
 - 🧠 Focused on **LLMs, RAG, agentic orchestration (LangGraph, MCP), and multimodal ML**
 - ⚙️ Comfortable across the ML stack — from fine-tuning transformers to shipping CI/CD pipelines and cloud deployments
 - 🏆 AWS Certified in both Machine Learning Engineering and AI Practitioner
-- 📫 Reach me at **arp21092005@gmail.comn**
+- 📫 Reach me at **arp21092005@gmail.com**
 
 ---
 
@@ -52,13 +52,13 @@
 
 ### 🧩 Featured Projects
 
-**[AURA](https://github.com/aradhyapandey) — AI-Powered Academic Study Assistant**
+**[AURA](https://github.com/aradhyap21) — AI-Powered Academic Study Assistant**
 A hybrid local + cloud LLM pipeline turning raw PDFs into 7 structured study artifacts (summaries, MCQs, flashcards, flowcharts, and more) in under 15 seconds.
 - Fine-tuned `bart-large-cnn` and `flan-t5-base`, improving ROUGE-1/2/L by up to 15% over baseline
 - Cut end-to-end latency from ~90s to ~45s using a 3-thread `ThreadPoolExecutor` running GPU + cloud inference concurrently
 - Designed a custom chunking + beam-search recombination algorithm to bypass BART's 1,024-token limit
 
-**[EchoMind](https://github.com/aradhyapandey) — Multimodal Emotion Intelligence System**
+**[EchoMind](https://github.com/aradhyap21) — Multimodal Emotion Intelligence System**
 A real-time system fusing text, facial, and audio signals for emotion recognition.
 - Fine-tuned RoBERTa-base on GoEmotions (58K samples), achieving weighted F1 ≥ 0.65 — published to HuggingFace Hub
 - Boosted webcam inference from 5–12 FPS to 25–30 FPS via a decoupled background inference thread
@@ -76,13 +76,13 @@ A real-time system fusing text, facial, and audio signals for emotion recognitio
 ### 📈 Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aradhyapandey&theme=minimal&hide_border=true" alt="Commit Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aradhyap21&theme=minimal&hide_border=true" alt="Commit Activity Graph" width="90%"/>
 </p>
 
 ### 🔥 Commit Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aradhyapandey&theme=default&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=aradhyap21&theme=default&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center"><i>Always open to collaborating on AI/ML, agentic systems, and research-driven engineering projects.</i></p>
