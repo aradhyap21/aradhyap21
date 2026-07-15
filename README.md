@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (Software Engineering) @ **SRM Institute of Science and Technology**, Chennai — Expected May 2027 (CGPA: **8.5/10**)
-- 🔬 Currently an **ML Intern at the Indian Institute of Science (IISc), Bengaluru**, building autonomous AI systems for scientific research
+- 🔬 **ML Intern at the Indian Institute of Science (IISc), Bengaluru**, building autonomous AI systems for scientific research
 - 🧠 Focused on **LLMs, RAG, agentic orchestration (LangGraph, MCP), and multimodal ML**
 - ⚙️ Comfortable across the ML stack — from fine-tuning transformers to shipping CI/CD pipelines and cloud deployments
 - 🏆 AWS Certified in both Machine Learning Engineering and AI Practitioner
