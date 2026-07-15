@@ -2,9 +2,9 @@
 <h3 align="center">CS Undergrad | ML/AI Engineer | Building autonomous, agentic, and multimodal AI systems</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/aradhya-rahul-pandey-788790301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aradhyapandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/aradhyapandey"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:ap0965@srmist.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:arp21092005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - 🧠 Focused on **LLMs, RAG, agentic orchestration (LangGraph, MCP), and multimodal ML**
 - ⚙️ Comfortable across the ML stack — from fine-tuning transformers to shipping CI/CD pipelines and cloud deployments
 - 🏆 AWS Certified in both Machine Learning Engineering and AI Practitioner
-- 📫 Reach me at **arp21092005@gmail.com**
+- 📫 Reach me at **arp21092005@gmail.comn**
 
 ---
 
@@ -72,3 +72,17 @@ A real-time system fusing text, facial, and audio signals for emotion recognitio
 - 🥈 AWS Certified AI Practitioner *(Mar 2026)*
 
 ---
+
+### 📈 Commit Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aradhyapandey&theme=minimal&hide_border=true" alt="Commit Activity Graph" width="90%"/>
+</p>
+
+### 🔥 Commit Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aradhyapandey&theme=default&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center"><i>Always open to collaborating on AI/ML, agentic systems, and research-driven engineering projects.</i></p>
